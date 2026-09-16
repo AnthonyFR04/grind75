@@ -12,3 +12,4 @@ class Solution:
             else:
                 return cur_pointer
         return -1
+    # Learn the bisect_left for better memory usage
