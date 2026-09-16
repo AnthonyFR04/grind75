@@ -18,3 +18,5 @@ class Solution:
         flood(image, sr, sc, orig_color, color)
 
         return image
+
+    # BFS seems to be faster to execute
